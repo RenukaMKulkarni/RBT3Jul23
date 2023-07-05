@@ -1,6 +1,6 @@
 Welcome to GIT Session!
 Session is for 3 days.
-Session timings are 10:30 AM - 1:30 PM
+All sessions timings are 10:30 AM - 1:30 PM
 Session Day2 details -
 Will cover git Diff command.
 Will also cover undo,Revert,reset on Day2.
