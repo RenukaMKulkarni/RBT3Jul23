@@ -8,4 +8,5 @@ Will see the difference between them.
 Function ABC(){
 //Do something to fix the bug123.
 //Another line to fix the bug123.
+//CR2: Changes done.
 }
