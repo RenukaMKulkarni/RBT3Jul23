@@ -1,17 +1,17 @@
 ***************Welcome to GIT Session********************
-Session is for 3 half days.
-Session timings for all 3 days is 10:30 AM - 1:30 PM
-Session Day2 details -
-Will cover git Diff command.
-Will also cover undo,Revert,reset on Day2.
-Will see the difference between them.
-Function ABC(){
+Session - is for 3 half days.
+Session - timings for all 3 days is 10:30 AM - 1:30 PM
+Session - Day2 details -
+Will - cover git Diff command.
+Will - also cover undo,Revert,reset on Day2.
+Will - see the difference between them.
+Function - ABC(){
 //Do something to fix the bug123.
 // Adding a line to fix Bug456.
 //Another line to fix the bug123.
 //CR2: Changes done.
 }
 
-New line added to check Stash demo. Work is in Progress.
-New line added to check pull with conflicts.
-New line added remotely.
+New  -line added to check Stash demo. Work is in Progress.
+New - line added to check pull with conflicts.
+New - line added remotely.
