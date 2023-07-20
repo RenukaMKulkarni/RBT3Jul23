@@ -12,6 +12,7 @@ Function - ABC(){
 //CR2: Changes done.
 }
 
-New  -line added to check Stash demo. Work is in Progress.
-New - line added to check pull with conflicts.
-New - line added remotely.
+new line added to check Stash demo. Work is in Progress.
+new line added to check pull with conflicts.
+new line added remotely.
+new line added to implement Feature1.
